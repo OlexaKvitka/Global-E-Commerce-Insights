@@ -33,6 +33,9 @@ This project delivers a comprehensive analysis of global e-commerce sales perfor
 -  Google Colab Notebook: https://colab.research.google.com/drive/1M4njwRC9nJyLBNm7dm-W3gt9ALte5QYX#scrollTo=bRCaQuAwIah0 
 -  Interactive Tableau Dashboard: https://public.tableau.com/app/profile/olexandra.kvasnevska/viz/E-commerceGlobalSalesProject/Dashboard1 
 
+## Google Colab Notebook Preview:
+![Tableau Dashboard Performance](Registered_VS_Unregistered_Users.PNG)
+
 ## Project Structure  
 1. Data Collection & Integration (SQL + BigQuery)  
 2. Dataset Overview & Quality Assessment  
