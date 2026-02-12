@@ -1,8 +1,13 @@
 # E-commerce Global Sales Project: Multi-Dimensional Performance Analysis
 
 ## Project Preview: 
-![Project Preview](https://github.com/OlexaKvitka/Global-E-Commerce-Insights/blob/main/E_Commerce_Global_Sales_Dashboard_1.PNG)
-![Project Preview](https://github.com/OlexaKvitka/Global-E-Commerce-Insights/blob/main/E_Commerce_Global_Sales_Dashboard_2.PNG)
+<div style="display: flex; justify-content: space-between;">
+
+  <img src="https://github.com/OlexaKvitka/Global-E-Commerce-Insights/blob/main/E_Commerce_Global_Sales_Dashboard_1.PNG" width="49%">
+
+  <img src="https://github.com/OlexaKvitka/Global-E-Commerce-Insights/blob/main/E_Commerce_Global_Sales_Dashboard_2.PNG" width="49%">
+
+</div>
 
 ## Project Overview  
 This project delivers a comprehensive analysis of global e-commerce sales performance across regions, product categories, devices, and time. Using SQL, Python, and Tableau, it identifies key performance drivers, customer behavior patterns, and market opportunities to inform strategic decision-making.
